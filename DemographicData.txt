@@ -1,0 +1,1 @@
+Demographic Data:ID: 20210203-HGK-0012Sex: --occupation: DoB: Age: BMI: EthnicGroup: Tap to select...EthnicName: Smoker: falseDiabetic: falseNeuropathy: falsePainKillers: false
